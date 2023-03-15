@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+
+    padding: 0;
+}
+
+body {
+    background-color: rgb(162, 162, 162);
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+header nav li {
+    display: inline;
+}
+
+header img {
+    width: 120px;
+}
+
+header input{
+    border: 8px;
+}
+header i{
+    margin-left: 10px;
+    font-size:large;
+}
+image{
+    size: 5px;
+}
